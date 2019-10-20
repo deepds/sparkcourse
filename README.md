@@ -1,2 +1,2 @@
 # sparkcourse
-Spark Course SAP 2018
+Spark Course v 2.1
